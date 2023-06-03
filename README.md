@@ -28,13 +28,16 @@ Follow these steps to download, run, and use the To-Do List Manager app:
 1. Once the application is running, you will see a menu with several options.
 2. Enter the corresponding number for the action you want to perform.
 3. Follow the prompts and provide the required information for each action:
-   - **1. Add a task:** Enter the task name when prompted.
-   - **2. Complete a task:** Enter the task ID to mark as complete when prompted.
-   - **3. List tasks:** View the list of tasks and their completion status.
-   - **4. Remove a task:** Enter the task ID to remove when prompted.
-   - **0. Exit:** Exit the application.
+   - **Add a task:** Enter the task name when prompted.
+   - **Complete a task:** Enter the task ID to mark as complete when prompted.
+   - **List tasks:** View the list of tasks and their completion status.
+   - **Remove a task:** Enter the task ID to remove when prompted.
+   - **Exit:** Exit the application.
 
-## Example Usage
 
-Here's an example of how you can interact with the To-Do List Manager:
 
+That's it! You now have the To-Do List Manager app up and running. Enjoy managing your tasks!
+
+Make sure you have Java and IntelliJ IDEA installed on your computer before following these instructions.
+
+If you have any questions or need further assistance, feel free to reach out.
