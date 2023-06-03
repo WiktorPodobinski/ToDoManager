@@ -14,7 +14,7 @@ Follow these steps to download, run, and use the To-Do List Manager app:
 
 ### Run the Application
 
-1. Open IntelliJ IDEA on your computer.
+Open IntelliJ IDEA on your computer.
 2. Select "Open" from the IntelliJ IDEA welcome screen.
 3. Navigate to the extracted folder and select the project folder (ToDoManager).
 4. Click "Open" to import the project into IntelliJ IDEA.
