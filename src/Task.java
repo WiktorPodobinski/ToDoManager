@@ -19,6 +19,6 @@ public void setCompleted(boolean completed) {
 
 @Override
 	public String toString() {
-	return "[" + (completed ? "X" : " ") + "]" + name;
+	return "[" + (completed ? "X" : " ") + "]" + name + "id: " + id;
 }
 }
